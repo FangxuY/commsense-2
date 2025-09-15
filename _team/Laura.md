@@ -1,5 +1,5 @@
 ---
-title: "Laura E Barnes"
+title: "Laura Barnes"
 collection: teaching
 date: 2025-09-15
 venue: "University of Virginia, School of Engineering"
