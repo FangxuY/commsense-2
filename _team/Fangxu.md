@@ -1,7 +1,7 @@
 ---
-title: "Laura E Barnes"
+title: "Fangxu Yuan"
 collection: teaching
-date: 2025-09-15
 venue: "University of Virginia, School of Engineering"
-type: "Professor"
+date: 2025-09-10
+type: "Ph.D. Student"
 ---
