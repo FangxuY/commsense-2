@@ -6,4 +6,4 @@ venue: "American Academy of Hospice and Palliative Medicine (AAHPM) State of the
 date: 2024-03-01
 location: "Phoenix, AZ"
 ---
-Presenter: **LeBaron, V.**
+Presenter: **Virginia LeBaron**

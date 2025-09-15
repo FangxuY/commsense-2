@@ -6,4 +6,4 @@ venue: "Society of General Internal Medicine (SGIM) Annual Conference"
 date: 2023-05-01
 location: "Aurora, CO"
 ---
-Presenter: **Flickinger, T.**
+Presenter: **Tabor Flickinger**

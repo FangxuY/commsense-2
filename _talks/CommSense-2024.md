@@ -6,4 +6,4 @@ venue: "The 27th ACM Conference on Computer-Supported Cooperative Work and Socia
 date: 2024-11-01
 location: "San Jose, Costa Rica"
 ---
-Presenter: **Wang, Z.**
+Presenter: **Zhiyuan Wang**

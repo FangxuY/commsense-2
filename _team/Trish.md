@@ -2,6 +2,6 @@
 title: "Trish Truong"
 collection: teaching
 venue: "University of Virginia, School of Nursing"
-date: 2025-09-09
+date: 2025-08-07
 type: "Nursing Student"
 ---

@@ -6,4 +6,4 @@ venue: "McGill International Congress on Palliative Care"
 date: 2022-10-01
 location: "Montreal, Canada"
 ---
-Presenter: **LeBaron, V.**
+Presenter: **Virginia LeBaron**

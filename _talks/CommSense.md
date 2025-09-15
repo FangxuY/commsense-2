@@ -6,5 +6,5 @@ venue: "University of Virginia Clinical AI Symposium"
 date: 2025-09-17
 location: "Charlottesville, VA, USA"
 ---
-Presenter: **LeBaron, V.**
+Presenter: **Virginia LeBaron**
 
