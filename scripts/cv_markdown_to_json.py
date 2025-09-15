@@ -309,31 +309,33 @@ def parse_talks(talks_dir):
 def parse_team(team_dir):
     """Parse team from the _team directory."""
     team = []
-    
+
     if not os.path.exists(team_dir):
         return team
-    
+
     for team_file in sorted(glob.glob(os.path.join(team_dir, "*.md"))):
         with open(team_file, 'r', encoding='utf-8') as file:
             content = file.read()
-        
+
         # Extract front matter
         front_matter_match = re.match(r'^---\s*(.*?)\s*---', content, re.DOTALL)
         if front_matter_match:
             front_matter = yaml.safe_load(front_matter_match.group(1))
-            
+
             # Extract team details
             team_entry = {
                 "course": front_matter.get('title', ''),
                 "institution": front_matter.get('venue', ''),
                 "date": front_matter.get('date', ''),
                 "role": front_matter.get('type', ''),
-                "description": front_matter.get('excerpt', '')
+                "description": front_matter.get('excerpt', ''),
+                "homepage": front_matter.get('homepage', '')
             }
-            
+
             team.append(team_entry)
-    
+
     return team
+
 
 def parse_portfolio(portfolio_dir):
     """Parse portfolio items from the _portfolio directory."""
