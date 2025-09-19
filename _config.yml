@@ -27,7 +27,7 @@ author:
   name             : "CommSense"
   pronouns         : # example: "she/her"  
   bio              : "Improving Patient-Clinician Communication with AI and Wearable Sensing Technologies"
-  location         : "Charlottesville"
+  # location         : "Charlottesville"
   employer         : "University of Virginia"
   uri              : # URL
   email            : "vtl6k@virginia.edu" 
