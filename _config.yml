@@ -23,7 +23,7 @@ repository               : "commsenseuva/commsenseuva.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "commsenselogo.png"
   name             : "CommSense"
   pronouns         : # example: "she/her"  
   bio              : "Improving Patient-Clinician Communication with AI and Wearable Sensing Technologies"
